@@ -1,0 +1,17 @@
+{
+  "name": "grpc-sample",
+  "version": "1.0.0",
+  "description": "gRPC-sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.11.2",
+    "@grpc/proto-loader": "^0.7.13",
+    "kafkajs": "^2.2.4"
+  }
+}
